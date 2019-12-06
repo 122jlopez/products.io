@@ -1,8 +1,14 @@
-body{
+.back{
   background-color:#CF5C36
 }
 img{
-  width:600px;
+  width:500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
+}
+table{
+  margin: auto;
 }
 h1{
   color:white;
@@ -19,6 +25,15 @@ width:750px;
 .rolls img:hover{
 width:750px;
 }
-table{
-  border-color: black;
+.title{
+  text-align:center;
+  color:#73684b;
+}
+.backtwo{
+  background-color:#dbaa27;
+}
+iframe{
+  margin-left: auto;
+  margin-right: auto;
+  display:table;
 }
